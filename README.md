@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Sinha
 - 👀 I’m interested in Data Science and MachineLearning/AI
-- 🌱 I’m currently doing PG in Data Science with specialisation in Deep Learning
+- 🌱 I’m currently doing -  **Post Graduation** in Data Science with specialisation in **Deep Learning**
 - 💞️ I’m looking for learning opportunities and work in Data Science field.
 - 📫 How to reach me - www.linkedin.com/in/abhisheksinha0987
 
